@@ -8,7 +8,7 @@ This backend application has been developed to handle all the api's. for a examp
 Clone the project
 
 ```bash
-  git clone https://github.com/suwendrarms/carouserApi.git
+  git clone https://github.com/suwendrarms/carouselApi.git
 ```
 
 ## Go to the project directory for Backend Application
